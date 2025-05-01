@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umar Ejaz</h1>
-<h3 align="center">Full Stack MERN Developer | React & Next.js | AI Web Innovator</h3>
+<h3 align="center">Full Stack MERN Developer | React.js & Next.js | AI Web Innovator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;JavaScript+Specialist+%7C+Next.js+%7C+Tailwind+CSS;AI+%2B+3D+Web+Explorer" />
