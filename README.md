@@ -1,91 +1,85 @@
 <h1 align="center">Hi 👋, I'm Umar Ejaz</h1>
-<h3 align="center">Full Stack MERN Developer | React & Next.js | AI Web Integrator</h3>
+<h3 align="center">Full Stack MERN Developer | React & Next.js | AI Web Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;AI+%2B+Web+Integration+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;JavaScript+Specialist+%7C+Next.js+%7C+Tailwind+CSS;AI+%2B+3D+Web+Explorer" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** specializing in **MERN stack** development.  
-From building animated, responsive frontends to secure and scalable backends, I bring ideas to life through code.
+I'm a passionate **JavaScript-first Full Stack Developer**, specializing in the **MERN stack** and frontend innovation.  
+From fluid **UI/UX** to robust **backend systems**, I build complete, scalable solutions using the modern JavaScript ecosystem.
 
-I’ve built:
-- 🎓 LMS platform like Udemy
-- 🎬 Movie apps using TMDB API
-- 🛒 E-commerce stores with full authentication
-- 💡 AI tools with trending hashtag analysis
-- 🔧 Custom product designers with animation
-
-Currently exploring **AI/ML in JavaScript** and **3D website development (Three.js + R3F)** to push the boundaries of interactive web apps.
+🛠️ **JavaScript is my core** – even when the stats show HTML/CSS, the real magic happens in my JS logic, component architecture, API integrations, and backend workflows.
 
 ---
 
-### 🛠️ Tech Stack
+## 🔥 Notable Projects
 
-**Languages & Tools:**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
-![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
+- 🎓 **LMS Platform** (Udemy Clone)
+- 🎬 **Movie App** using TMDB API
+- 🛒 **E-commerce Store** with secure auth & admin panel
+- 🤖 **AI-powered Tools** (Hashtag analyzer, AI code refiner)
+- 🎨 **Animated Product Designer** using GSAP
+- 🧠 **3D Web Apps** with Three.js and React Three Fiber
+- ☕ **Buy Me a Chai** – donation platform
+- 🧾 **Solo Leveling Wiki** – Anime info app built in Next.js
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Tech Stack
 
-| Project | Description |
-|--------|-------------|
-| 🎓 **LMS Platform** | A full-stack Learning Management System like Udemy (Auth, courses, instructor panel) |
-| 🎬 **Movie App** | React + TMDB API for browsing and searching movies |
-| 🛒 **Scatach Store** | MERN-based E-commerce app with auth, cart, and admin dashboard |
-| 🌐 **Solo Leveling Wiki** | Next.js app showing anime characters with dynamic routing |
-| ☕ **Buy Me a Chai** | Support page for creators (donation-based) |
-| 🎨 **Dior & Burger King Clones** | Animated landing pages using GSAP & Tailwind |
+### 💻 Languages & Frameworks:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 
----
+### 🧠 Databases & Hosting:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render)
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmarEjaz&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarEjaz&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
-### 📣 Let's Connect
-
-- 🔗 [Portfolio](https://umarmernstack.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/umar-ejaz/)
-- 🎨 [Instagram – @webcodexx](https://www.instagram.com/webcodexx)
-- 💻 Fiverr – MERN Stack Projects (available on request)
+### 🎨 Styling & Tools:
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=flat-square&logo=framer)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 
 ---
 
-### 📚 Currently Learning
+## 📈 GitHub Contributions
 
-- 🧠 AI/ML with JavaScript
-- 📊 Data Visualization (D3.js, Recharts)
-- 🎮 3D Websites (Three.js, R3F)
-- 🔐 Advanced Auth with NextAuth
+> 🔍 Most of my contributions are **JavaScript-heavy** projects.  
+> HTML/CSS may show up in graphs — but it's all **JS/TS logic under the hood**!
 
 ---
 
-### 💡 Fun Fact
+## 📚 Currently Learning
 
-> I started with “how to center a div”  
-> Now I build full-stack AI-integrated SaaS platforms and share my dev journey online.  
-> Always learning. Always building. 🚀
+- 🧠 **AI/ML with JavaScript** (TensorFlow.js, Brain.js)
+- 📊 **Data Visualization** (Recharts, D3.js)
+- 🎮 **3D Web Dev** (Three.js, React Three Fiber)
+- 🔐 **Advanced Auth** (NextAuth.js, JWT, RBAC)
 
 ---
+
+## 📣 Let’s Connect
+
+🌐 [Portfolio](https://umarmernstack.vercel.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/umar-ejaz-dev)  
+📸 [Instagram – @webcodexx](https://www.instagram.com/webcodexx)  
+💻 Fiverr – MERN/Next.js Projects (on request)
+
+---
+
+## 💡 Fun Fact
+
+Started with googling _"how to center a div"_  
+Now I’m building **scalable SaaS platforms** with **AI integration**.  
+**Always building. Always learning. 🚀**
