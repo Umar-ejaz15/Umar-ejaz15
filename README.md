@@ -87,10 +87,7 @@ today I build and deploy full-scale, AI-driven, production-ready web platforms.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umar-ejaz15&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umar-ejaz15&theme=tokyonight" alt="GitHub Streak" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-ejaz15&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
